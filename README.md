@@ -11,3 +11,5 @@ My great vision
 - Feature 4: Integration with robotics
 - Feature 5: Another death flag
 - Feature 6: World domination
+- Feature 7: Some other features
+- Feature 8: THE GREAT FEATURE
